@@ -6,5 +6,5 @@
 
 <h3>목록</h3>
 
-개인 블로그 제작 (개인 프로젝트 / 2개월)
+<p>개인 블로그 제작 (개인 프로젝트 / 2개월)</p>
 <a herf ="https://github.com/SIROBAKO/portfolio/blob/main/blogService.pdf">https://github.com/SIROBAKO/portfolio/blob/main/blogService.pdf</a>
